@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.form-novedad{
+
+  padding: 2%;    
+}
+.form-login{
+  padding: 4%;
+}
